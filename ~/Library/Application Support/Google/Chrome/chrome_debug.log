@@ -1,0 +1,44 @@
+[38438:60180484:0527/194539.382882:INFO:components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc:202] No machine level policy manager exists.
+[38438:60180484:0527/194540.966484:INFO:CONSOLE:649] "
+It looks like you're using the development build of the Firebase JS SDK.
+When deploying Firebase apps to production, it is advisable to only import
+the individual SDK components you intend to use.
+
+For the module builds, these are available in the following manner
+(replace <PACKAGE> with the name of a component - i.e. auth, database, etc):
+
+CommonJS Modules:
+const firebase = require('firebase/app');
+require('firebase/<PACKAGE>');
+
+ES Modules:
+import firebase from 'firebase/app';
+import 'firebase/<PACKAGE>';
+
+Typescript:
+import firebase from 'firebase/app';
+import 'firebase/<PACKAGE>';
+", source: https://app.foreplay.co/js/chunk-vendors.6f283564.js (649)
+[38438:60180484:0527/194541.029090:INFO:CONSOLE:1723] "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading", source: https://maps.googleapis.com/maps/api/js?key=AIzaSyDLwoogru4T0XwzmCDkSVArPEdIxBaFNks&libraries=places (1723)
+[38438:60180484:0527/194541.047591:INFO:CONSOLE:1] "setting theme", source: https://app.foreplay.co/js/app.537af32a.js (1)
+[38438:60180484:0527/194541.103612:INFO:CONSOLE:4] "tw pixel loaded", source:  (4)
+[38438:60180484:0527/194541.122325:INFO:CONSOLE:2] "Rewardful is already loaded.", source: https://r.wdfl.co/rw.js (2)
+[38438:60180484:0527/194541.162619:INFO:CONSOLE:142] "[Meta Pixel] - Duplicate Pixel ID: 3218569585036331.", source: https://connect.facebook.net/en_US/fbevents.js (142)
+[38438:60180484:0527/194541.316227:INFO:CONSOLE:1] "[Intercom] Launcher is disabled in settings or current page does not match display conditions", source: https://js.intercomcdn.com/frame-modern.51aaa0cd.js (1)
+[38438:60180484:0527/194541.333745:INFO:CONSOLE:142] "[Meta Pixel] - You are sending a non-standard event 'scroll'. The preferred way to send these events is using trackCustom. See 'https://developers.facebook.com/docs/ads-for-websites/pixel-events/#events' for more information.", source: https://connect.facebook.net/en_US/fbevents.js (142)
+[38438:60180484:0527/194541.334369:INFO:CONSOLE:142] "[Meta Pixel] - You are attempting to send an unverified event. The event was suppressed. Go to Events Manager to learn more.", source: https://connect.facebook.net/en_US/fbevents.js (142)
+[38438:60180484:0527/194541.584026:INFO:CONSOLE:1] "Error: The domain APP.FOREPLAY.CO is not authorized to show the cookie banner for domain group ID 45487605-e81f-4a12-ba75-89324469ec61. Please add it to the domain group in the Cookiebot Manager to authorize the domain.", source: https://consent.cookiebot.com/45487605-e81f-4a12-ba75-89324469ec61/cc.js?renew=false&referer=app.foreplay.co&dnt=false&init=false (1)
+[38438:60180484:0527/194546.177799:INFO:CONSOLE:0] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/signin/chrome/sync/finish?est%3DAI3H0-p73XDMeaBPZFUusgYo5P-JB_9HfVUrHmH44sUbZe8COqSLQp34JJMlKRjhWBID5aL0-J_zAQcPy4ideXs%26continue%3Dhttps://www.google.com/&dsh=S606189111:1748389546006592&ffgf=1&ssp=1&flowName=GlifDesktopChromeSync (0)
+[38438:60180484:0527/194546.184392:INFO:CONSOLE:439] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.oby1ref_Rvk.es5.O/am=GQYAxkpHriEQEDI_cUDpB86HcXoAAAAAAAAAAGALAABgHgAQ/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlGTKUaAHgYk59HL6dZugeQuAgadtQ/m=_b,_tp (439)
+[38438:60180484:0527/194546.184412:INFO:CONSOLE:439] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.oby1ref_Rvk.es5.O/am=GQYAxkpHriEQEDI_cUDpB86HcXoAAAAAAAAAAGALAABgHgAQ/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlGTKUaAHgYk59HL6dZugeQuAgadtQ/m=_b,_tp (439)
+[38438:60180484:0527/194546.319792:WARNING:services/device/public/cpp/hid/hid_collection.cc:240] encountered report item with invalid report size (16384>32)
+[38438:60180484:0527/194546.319840:WARNING:services/device/public/cpp/hid/hid_collection.cc:240] encountered report item with invalid report size (16384>32)
+[38438:60180484:0527/194546.319876:WARNING:services/device/public/cpp/hid/hid_collection.cc:240] encountered report item with invalid report size (16384>32)
+[38438:60180484:0527/194546.319908:WARNING:services/device/public/cpp/hid/hid_collection.cc:240] encountered report item with invalid report size (16384>32)
+[38438:60180484:0527/194546.319935:WARNING:services/device/public/cpp/hid/hid_collection.cc:240] encountered report item with invalid report size (16384>32)
+[38438:60180484:0527/194546.319962:WARNING:services/device/public/cpp/hid/hid_collection.cc:240] encountered report item with invalid report size (16024>32)
+[38438:60180484:0527/194546.319966:WARNING:services/device/public/cpp/hid/hid_collection.cc:240] encountered report item with invalid report size (1048>32)
+[38438:60180484:0527/194546.320124:WARNING:services/device/public/cpp/hid/hid_collection.cc:240] encountered report item with invalid report size (50>32)
+[38438:60180484:0527/194546.856256:WARNING:chrome/browser/media/prefs/capture_device_ranking.h:255] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[38438:60180484:0527/194546.856290:WARNING:chrome/browser/media/prefs/capture_device_ranking.h:255] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty

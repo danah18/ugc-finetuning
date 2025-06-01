@@ -1,0 +1,7 @@
+2025/05/27-19:41:55.373 3963447 Reusing MANIFEST /Users/danah/Desktop/UGC/~/Library/Application Support/Google/Chrome/Profile 4/IndexedDB/https_app.foreplay.co_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/27-19:41:55.374 3963447 Recovering log #4
+2025/05/27-19:41:55.374 3963447 Reusing old log /Users/danah/Desktop/UGC/~/Library/Application Support/Google/Chrome/Profile 4/IndexedDB/https_app.foreplay.co_0.indexeddb.leveldb/000004.log 
+2025/05/27-19:41:55.569 3963445 Level-0 table #8: started
+2025/05/27-19:41:55.570 3963445 Level-0 table #8: 6127 bytes OK
+2025/05/27-19:41:55.572 3963445 Delete type=0 #4
+2025/05/27-19:41:55.572 3963445 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

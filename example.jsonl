@@ -1,0 +1,25 @@
+## preferred output we have
+## non preferred output we have
+## for the prompt i'll just need to inject with product name and description
+
+# ok each entry is its own json object that follows this format {"role": "user", 
+     "content": user-content-variable-2}]}, 
+     "preferred_output": [{"role": "assistant", "content": preferred-variable-2}],
+     "non_preferred_output": [{"role": "assistant", "content": non-preferred-variable-2}]}
+
+{
+    {"input": 
+    {"messages": 
+    [
+      {"role": "system", 
+      "content": "You are a chatbot assistant. Given a user question with multiple choice answers, provide the correct answer."
+      },
+     {"role": "user", 
+     "content": "Question: Janette conducts an investigation to see which foods make her feel more fatigued. 
+     She eats one of four different foods each day at the same time for four days and then records how she feels. 
+     She asks her friend Carmen to do the same investigation to see if she gets similar results.
+      Which would make the investigation most difficult to replicate?"}]}, 
+     "preferred_output": [{"role": "assistant", "content": "A: Measuring The Amount Of Fatigue"}],
+     "non_preferred_output": [{"role": "assistant", "content": "D: making sure the foods are at the same temperature"}]}
+}
+

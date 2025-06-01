@@ -1,0 +1,6 @@
+2025/05/27-19:40:56.211 3962c9f Creating DB /Users/danah/Desktop/UGC/~/Library/Application Support/Google/Chrome/Profile 4/IndexedDB/https_app.foreplay.co_0.indexeddb.leveldb since it was missing.
+2025/05/27-19:40:56.215 3962c9f Reusing MANIFEST /Users/danah/Desktop/UGC/~/Library/Application Support/Google/Chrome/Profile 4/IndexedDB/https_app.foreplay.co_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/27-19:40:56.338 3962ca9 Level-0 table #5: started
+2025/05/27-19:40:56.339 3962ca9 Level-0 table #5: 2365 bytes OK
+2025/05/27-19:40:56.342 3962ca9 Delete type=0 #3
+2025/05/27-19:40:56.343 3962c9f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
