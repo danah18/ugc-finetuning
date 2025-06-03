@@ -6,13 +6,13 @@ from openai import OpenAI
 
 client = OpenAI()
 
-def extract_name_and_description(index, transcript):
+def extract_name_and_description(key, transcript, categorization_file_base):
     response = client.responses.create(
         model="gpt-4.1",
         instructions="Given the transcript of an ad, determine the product or service name and what the product or service does. Reply a comma-separated list of [brand_name, product_description]",
         input=transcript)
 
-    with open(f"creative-milkshake/downloads/beauty/transcripts_categorized/{index}.txt", "w") as f:
+    with open(f"{categorization_file_base}/{key}.txt", "w") as f:
         output = response.output_text + ", " + transcript
         f.write(output)
 
@@ -26,7 +26,7 @@ def make_non_preferred_output(name, description):
     )
     return response.output_text
 
-def generate(preferred_output_file):
+def generate_non_preferred(preferred_output_file, non_preferred_output_file, prompts_file, categorization_file_base):
     # Read the file
     with open(preferred_output_file, "r") as f:
         content = f.read()
@@ -35,29 +35,35 @@ def generate(preferred_output_file):
     data_list = json.loads(content)
 
     non_preferred = []
+    prompts = []
     
     # Iterate over elements
-    for index, value in enumerate(data_list):
+    for i, (key, value) in enumerate(data_list.items()):
         transcript = value
-        response = extract_name_and_description(index, transcript)
+        response = extract_name_and_description(key, transcript, categorization_file_base)
         values = response.split(",")
 
         name = values[0]
         description = values[1]
 
         non_preferred_script = make_non_preferred_output(name, description)
-
         non_preferred.append(non_preferred_script)
 
-    with open(f"creative-milkshake/beauty_non_preferred_output.txt", "w") as f:
+        prompt = f"Write me the ad copy for a social media ad for {name}. Product description: {description}"
+        prompts.append(prompt)
+
+    with open(non_preferred_output_file, "w") as f:
         json.dump(non_preferred, f, ensure_ascii=False, indent=2)
 
-if __name__ == "__main__":
-    generate("creative-milkshake/beauty_preferred_output.txt")
+    with open(prompts_file, "w") as f:
+        json.dump(prompts, f, ensure_ascii=False, indent=2)
 
+# if __name__ == "__main__":
+#     preferred_output_file = "creative-milkshake/downloads/beauty/beauty_preferred_output.json"
+#     non_preferred_output_file = "creative-milkshake/beauty/beauty_non_preferred_output.txt"
+#     prompts_file = "creative-milkshake/beauty_prompts.txt"
+#     categorization_file_base = "creative-milkshake/downloads/beauty/transcripts_categorized"
 
-
-
-
+#     generate_non_preferred(preferred_output_file, non_preferred_output_file, prompts_file, categorization_file_base)
 
 
