@@ -1,6 +1,8 @@
 import json
-from generate_non_preferred import generate_non_preferred
+from generate_non_preferred_output import generate_non_preferred
 from generate_preferred_output import generate_preferred_output
+from make_directories import read_txt_to_list
+from retrieve_links import retrieve_links
 
 # Define your data as a list of dictionaries
 def make_json_object(user_prompt, preferred_output, non_preferred_output):
@@ -45,7 +47,7 @@ def generate_jsonl(preferred_output_file, non_preferred_output_file, prompt_file
         data.append(result)
 
     # Write to a .jsonl file
-    with open("creative-milkshake/beauty.jsonl", "w") as f:
+    with open(output_jsonl_file, "w") as f:
         for item in data:
             json.dump(item, f)
             f.write("\n")
@@ -53,35 +55,41 @@ def generate_jsonl(preferred_output_file, non_preferred_output_file, prompt_file
 def get_paths(author):
     paths = {}
 
-    paths["links_file"] = f"{author}/remaining/links.txt"
-    paths["output_path_base"] = f"{author}/downloads/videos/"
-    paths["preferred_output_file"] = f"{author}/downloads/preferred_output.json"
-    paths["bad_data_file"] = f"{author}/downloads/files_not_added.txt"
-    paths["non_preferred_output_file"] =  f"{author}/non_preferred_output.txt"
-    paths["prompts_file"] =  f"{author}/prompts.txt"
-    paths["categorization_file_base"] =  f"{author}/downloads/transcripts_categorized"
-    oaths["output_jsonl_file"] = f"{author}/output.jsonl"
+    paths["links_file"] = f"experts/{author}/links.txt"
+    paths["output_path_base"] = f"experts/{author}/downloads/videos/"
+    paths["preferred_output_file"] = f"experts/{author}/downloads/preferred_output.json"
+    paths["bad_data_file"] = f"experts/{author}/downloads/files_not_added.txt"
+    paths["non_preferred_output_file"] =  f"experts/{author}/non_preferred_output.txt"
+    paths["prompts_file"] =  f"experts/{author}/prompts.txt"
+    paths["categorization_file_base"] =  f"experts/{author}/downloads/transcripts_categorized"
+    paths["output_jsonl_file"] = f"experts/{author}/output.jsonl"
+    paths["transcript_directory"] = f"experts/{author}/downloads/transcripts/" 
     
     return paths
 
 if __name__ == "__main__":
-    paths = get_paths("creative-milkshake")
+    expert_list = read_txt_to_list("experts/experts.txt")
 
-    links_file = paths["links_file"]
-    output_path_base = paths["output_path_base"]
-    preferred_output_file = paths["preferred_output_file"]
-    bad_data_file = paths["bad_data_file"]
+    for expert in expert_list:
+        paths = get_paths(expert)
 
-    generate_preferred_output(links_file, output_path_base, preferred_output_file, bad_data_file)
+        retrieve_links(f"experts/{expert}")
 
-    non_preferred_output_file = paths["non_preferred_output_file"]
-    prompts_file = paths["prompts_file"]
-    categorization_file_base = paths["categorization_file_base"]
+        links_file = paths["links_file"]
+        output_path_base = paths["output_path_base"]
+        preferred_output_file = paths["preferred_output_file"]
+        bad_data_file = paths["bad_data_file"]
+        transcript_directory = paths["transcript_directory"]
 
-    generate_non_preferred(preferred_output_file, non_preferred_output_file, prompts_file, categorization_file_base)
+        generate_preferred_output(links_file, output_path_base, transcript_directory, preferred_output_file, bad_data_file)
 
-    output_jsonl_file = paths["output_jsonl_file"]
-    generate_jsonl(preferred_output_file, non_preferred_output_file, prompt_file, output_jsonl_file)
+        non_preferred_output_file = paths["non_preferred_output_file"]
+        prompts_file = paths["prompts_file"]
+        categorization_file_base = paths["categorization_file_base"]
 
-    # TODO: remove remaining from directory above
-    # TODO: concanetate jsonfile files
+        generate_non_preferred(preferred_output_file, non_preferred_output_file, prompts_file, categorization_file_base)
+
+        output_jsonl_file = paths["output_jsonl_file"]
+        generate_jsonl(preferred_output_file, non_preferred_output_file, prompts_file, output_jsonl_file)
+
+        # TODO: concanetate jsonfile files

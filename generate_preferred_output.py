@@ -3,7 +3,7 @@ import json
 from vimeo_download import download_vimeo_video
 from transcribe import transcribe
 
-def generate_preferred_output(links_file, output_path_base, preferred_output_file, bad_data_file):
+def generate_preferred_output(links_file, output_path_base, transcript_directory, preferred_output_file, bad_data_file):
     transcripts = {}
 
     files_not_added = []
@@ -19,7 +19,7 @@ def generate_preferred_output(links_file, output_path_base, preferred_output_fil
             mp3_filename = url.split('/')[-1].strip()
 
             # Transcribe and add to array
-            transcription = transcribe(output_path_base, mp3_filename)
+            transcription = transcribe(output_path_base, transcript_directory, mp3_filename)
 
             if (len(transcription) < 65):
                 files_not_added.append(mp3_filename)
@@ -31,7 +31,7 @@ def generate_preferred_output(links_file, output_path_base, preferred_output_fil
     with open(preferred_output_file, "w") as file:
         json.dump(transcripts, file)
 
-    with open(, "w") as file:
+    with open(bad_data_file, "w") as file:
         file.write(str(files_not_added))
 
 # if __name__ == "__main__":

@@ -6,8 +6,8 @@ from openai import OpenAI
 from openai import InternalServerError
 from langdetect import detect
 
-def transcribe(download_directory, mp3_filename):
-    transcript_file_name = "creative-milkshake/downloads/beauty/transcripts/" + mp3_filename.split('.')[0] + ".txt"
+def transcribe(download_directory, transcript_directory, mp3_filename):
+    transcript_file_name = transcript_directory + mp3_filename.split('.')[0] + ".txt"
 
     if os.path.exists(transcript_file_name):
         with open(transcript_file_name, 'r') as f:
@@ -38,8 +38,18 @@ def transcribe(download_directory, mp3_filename):
 
                     with open(transcript_file_name, "a") as transcript_file:
                         transcript_file.write(response.output_text)
+
+                    print("[*****] " + language + transcript_file_name)
+
                     
         except InternalServerError:
             return ""
 
         return transcription
+
+if __name__ == "__main__":
+    t = "Siempre me lo preguntan, as\u00ed que hoy os comparto mi truco para maximizar mis ahorros. Con la nueva cuenta de ahorro N26 puedes aumentar"
+    t2 = "proposent une protection de d\u00e9p\u00f4t. J'ai jamais autant ador\u00e9 une banque. Testez vous-m\u00eame et ouvrez votre compte N26 maintenant."
+    language = detect(t2)
+
+    print(language)
