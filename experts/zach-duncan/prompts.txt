@@ -1,0 +1,15 @@
+[
+  "Write me the ad copy for a social media ad for Sorry. Product description:  but based on the provided text alone",
+  "Write me the ad copy for a social media ad for Dr. Squatch. Product description:  natural bar soap for men with exfoliants and distinctive scents",
+  "Write me the ad copy for a social media ad for Dr. Squatch. Product description:  natural soap specifically formulated for men with healthy ingredients and no harsh chemicals",
+  "Write me the ad copy for a social media ad for Dr. Squatch. Product description:  natural men's body wash and soap made with natural ingredients for cleansing and exfoliation",
+  "Write me the ad copy for a social media ad for Love Wellness. Product description:  wellness products and solutions for personal health and self-care",
+  "Write me the ad copy for a social media ad for Alix. Product description:  personalized herbal supplement for PMS and menstrual symptom relief",
+  "Write me the ad copy for a social media ad for Haybud. Product description:  facial mask with rejuvenating ingredients like hemp",
+  "Write me the ad copy for a social media ad for Broya. Product description:  high-quality bone broth made from locally sourced meats and bones",
+  "Write me the ad copy for a social media ad for fairy light spirit tree. Product description:  decorative ambient light shaped like a tree that provides calming illumination for home décor",
+  "Write me the ad copy for a social media ad for Shapermint. Product description:  high-waisted opaque leggings that provide body smoothing and comfort",
+  "Write me the ad copy for a social media ad for Base Tights. Product description:  performance workout tights that are squat proof",
+  "Write me the ad copy for a social media ad for Moon. Product description:  teeth whitening device and dissolving whitening strips for fast and convenient at-home teeth whitening",
+  "Write me the ad copy for a social media ad for [unknown. Product description:  dissolvable whitening strips for teeth that taste like lavender and mint]"
+]

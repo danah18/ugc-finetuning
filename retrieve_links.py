@@ -19,8 +19,9 @@ def retrieve_links(base_path):
     for line in lines:
         line = line.strip()
         if line and line not in seen:
-            seen.add(line)
-            unique_lines.append(line)
+            if ".jpg" not in line:
+                seen.add(line)
+                unique_lines.append(line)
 
     # Write back the unique lines
     with open(f"{base_path}/links.txt", "w") as file:

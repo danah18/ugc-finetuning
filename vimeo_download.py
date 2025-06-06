@@ -22,4 +22,4 @@ def download_vimeo_video(url, output_path):
 # Example usage
 # if __name__ == "__main__":
 #     vimeo_url = "https://r2.foreplay.co/1027672322193282/e100664c2c7fa506ecaacec99049c7ab.mp4" #"https://player.vimeo.com/video/1072475389"
-#     download_vimeo_video(vimeo_url)
+#     download_vimeo_video(vimeo_url)s

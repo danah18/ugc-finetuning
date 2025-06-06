@@ -1,0 +1,19 @@
+[
+  "Write me the ad copy for a social media ad for Lomi. Product description:  kitchen appliance that converts food waste into odorless dirt for easy disposal or gardening",
+  "Write me the ad copy for a social media ad for Vegamour Grow Hair Serum. Product description:  plant-based hair serum formulated to promote the appearance of longer",
+  "Write me the ad copy for a social media ad for High Smile V34. Product description:  a teeth color corrector that helps whiten the appearance of teeth",
+  "Write me the ad copy for a social media ad for V34. Product description:  instant color-correcting teeth whitening product that reduces yellow tones on teeth for a whiter appearance without pain or sensitivity",
+  "Write me the ad copy for a social media ad for Proz. Product description:  custom hair care products for curly hair based on personalized consultation",
+  "Write me the ad copy for a social media ad for Hims. Product description:  online mental health treatment and medication delivery service",
+  "Write me the ad copy for a social media ad for PAP+. Product description:  whitening powder that is added to any toothpaste to turn it into a whitening toothpaste",
+  "Write me the ad copy for a social media ad for Fresh Clean Threads. Product description:  comfortable and well-fitted men's shirts designed for a flattering look",
+  "Write me the ad copy for a social media ad for Factor. Product description:  ready-to-eat healthy meals and snacks delivered to help with clean eating and meal prep",
+  "Write me the ad copy for a social media ad for Factor. Product description:  pre-cooked meals and snacks for convenient",
+  "Write me the ad copy for a social media ad for Factor. Product description:  dietician-designed pre-packaged meals delivered to your door for easy and fast meal prep",
+  "Write me the ad copy for a social media ad for Bite. Product description:  toothpaste bits in refillable glass jars that are eco-friendly",
+  "Write me the ad copy for a social media ad for Bite. Product description:  toothpaste bits that provide zero waste and natural oral care as a sustainable alternative to traditional toothpaste",
+  "Write me the ad copy for a social media ad for Proz. Product description:  personalized hair care products for curly hair that include shampoo",
+  "Write me the ad copy for a social media ad for [No brand name mentioned. Product description:  Dry shampoo or scalp cleansing product that helps manage or clean hair without washing]",
+  "Write me the ad copy for a social media ad for Vegamour. Product description:  conditioner that hydrates and detangles hair to address dryness and improve manageability",
+  "Write me the ad copy for a social media ad for Proz. Product description:  personalized/custom shampoo for individual hair type and needs"
+]

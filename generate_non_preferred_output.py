@@ -9,7 +9,7 @@ client = OpenAI()
 def extract_name_and_description(key, transcript, categorization_file_base):
     response = client.responses.create(
         model="gpt-4.1",
-        instructions="Given the transcript of an ad, determine the product or service name and what the product or service does. Reply a comma-separated list of [brand_name, product_description]",
+        instructions="Given the transcript of an ad, determine the product or service name and what the product or service does. Reply with a dictionary of [brand_name, product_description]",
         input=transcript)
 
     with open(f"{categorization_file_base}/{key}.txt", "w") as f:
@@ -42,6 +42,17 @@ def generate_non_preferred(preferred_output_file, non_preferred_output_file, pro
         transcript = value
         response = extract_name_and_description(key, transcript, categorization_file_base)
         values = response.split(",")
+        print(values)
+        
+        ## For if it stops midway:
+        # with open(f"{categorization_file_base}/{key}.txt", "r") as f:
+        #     lines = f.readlines()
+        
+        # result = lines[0]
+        # parts = [part.strip() for part in result.split(",")]
+
+        # name = parts[0]
+        # description = ", ".join(parts[1:])
 
         name = values[0]
         description = values[1]
@@ -51,6 +62,7 @@ def generate_non_preferred(preferred_output_file, non_preferred_output_file, pro
 
         prompt = f"Write me the ad copy for a social media ad for {name}. Product description: {description}"
         prompts.append(prompt)
+        print(prompt)
 
     with open(non_preferred_output_file, "w") as f:
         json.dump(non_preferred, f, ensure_ascii=False, indent=2)

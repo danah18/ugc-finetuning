@@ -55,7 +55,7 @@ def generate_jsonl(preferred_output_file, non_preferred_output_file, prompt_file
 def get_paths(author):
     paths = {}
 
-    paths["links_file"] = f"experts/{author}/links.txt"
+    paths["links_file"] = f"experts/{author}/downloads/links.txt"
     paths["output_path_base"] = f"experts/{author}/downloads/videos/"
     paths["preferred_output_file"] = f"experts/{author}/downloads/preferred_output.json"
     paths["bad_data_file"] = f"experts/{author}/downloads/files_not_added.txt"
@@ -73,7 +73,7 @@ if __name__ == "__main__":
     for expert in expert_list:
         paths = get_paths(expert)
 
-        retrieve_links(f"experts/{expert}")
+        retrieve_links(f"experts/{expert}/downloads")
 
         links_file = paths["links_file"]
         output_path_base = paths["output_path_base"]
@@ -86,10 +86,11 @@ if __name__ == "__main__":
         non_preferred_output_file = paths["non_preferred_output_file"]
         prompts_file = paths["prompts_file"]
         categorization_file_base = paths["categorization_file_base"]
-
+        
         generate_non_preferred(preferred_output_file, non_preferred_output_file, prompts_file, categorization_file_base)
 
         output_jsonl_file = paths["output_jsonl_file"]
         generate_jsonl(preferred_output_file, non_preferred_output_file, prompts_file, output_jsonl_file)
 
-        # TODO: concanetate jsonfile files
+        # TODO: concanetate jsonfile 
+        # Add creative milkshake files

@@ -1,0 +1,15 @@
+[
+  "Write me the ad copy for a social media ad for [not specified. Product description:  real estate investing education and coaching services]",
+  "Write me the ad copy for a social media ad for Magic Mind. Product description:  an energy-boosting drink or supplement that enhances alertness and focus without causing jitters.",
+  "Write me the ad copy for a social media ad for Stoke Stove. Product description:  gas pizza oven that cooks pizza quickly for gatherings and events",
+  "Write me the ad copy for a social media ad for Blissey. Product description:  mulberry silk pillowcase that reduces skin creases and wrinkles",
+  "Write me the ad copy for a social media ad for Huel. Product description:  ready-to-eat nutritious meal replacement food",
+  "Write me the ad copy for a social media ad for Pro's Custom Care. Product description:  hair products customized to your exact hair concerns and needs based on a consultation",
+  "Write me the ad copy for a social media ad for Factor. Product description:  dietitian-designed pre-packaged meals delivered to your door that are quick to heat up and require no cooking or meal prepping",
+  "Write me the ad copy for a social media ad for Cerebral. Product description:  online mental health therapy and counseling service that matches users with therapists and treatment plans and allows for virtual sessions.",
+  "Write me the ad copy for a social media ad for Gainful. Product description:  personalized protein powder custom-made for individual fitness goals and dietary preferences",
+  "Write me the ad copy for a social media ad for Cerebral. Product description:  online mental health therapy and counseling platform",
+  "Write me the ad copy for a social media ad for Ridge. Product description:  slim and durable wallet that holds up to 12 cards and cash",
+  "Write me the ad copy for a social media ad for Magic Spoon. Product description:  high-protein low-carb cereal bars based on viral cereal",
+  "Write me the ad copy for a social media ad for Magic Spoon. Product description:  high-protein low-carb zero-sugar keto-friendly cereal with nostalgic flavors"
+]

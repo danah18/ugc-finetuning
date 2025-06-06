@@ -21,6 +21,6 @@ def create_folders(base_names, root_dir="experts", subfolders=None):
     print(f"Created nested folder structure under '{root_dir}'")
 
 # --- Usage ---
-txt_file = "experts/experts.txt" 
-names_list = read_txt_to_list(txt_file)
-create_folders(names_list)
+# txt_file = "experts/experts.txt" 
+# names_list = read_txt_to_list(txt_file)
+# create_folders(names_list)

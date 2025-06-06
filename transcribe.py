@@ -3,7 +3,7 @@
 # source openai-env/bin/activate
 import os
 from openai import OpenAI
-from openai import InternalServerError
+from openai import InternalServerError, BadRequestError
 from langdetect import detect
 
 def transcribe(download_directory, transcript_directory, mp3_filename):
@@ -41,9 +41,15 @@ def transcribe(download_directory, transcript_directory, mp3_filename):
 
                     print("[*****] " + language + transcript_file_name)
 
-                    
         except InternalServerError:
             return ""
+        
+        except BadRequestError as e:
+            print(e)
+            if "audio duration 3197.589 seconds is longer than 1500 seconds which is the maximum for this model" in str(e):
+                return ""
+            else:
+                raise  # re-raise other BadRequestExceptions
 
         return transcription
 
