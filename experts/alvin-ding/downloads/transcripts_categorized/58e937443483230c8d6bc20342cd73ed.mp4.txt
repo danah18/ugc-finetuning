@@ -1,0 +1,4 @@
+{
+  "brand_name": "Spreadsheets (Generic or likely Microsoft Excel or Google Sheets)",
+  "product_description": "A software tool that allows users to create, organize, and analyze data in tabular form. Spreadsheets are commonly used for financial calculations, data management, and reporting."
+}, Everyone loves spreadsheets! See what I'm talking about and make the switch today!

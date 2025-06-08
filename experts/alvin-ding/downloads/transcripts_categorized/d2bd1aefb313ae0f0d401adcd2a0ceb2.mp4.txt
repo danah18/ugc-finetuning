@@ -1,0 +1,4 @@
+{
+  "brand_name": "reMarkable",
+  "product_description": "A digital paper tablet designed to help users take notes, read, and review documents, enhancing productivity with a paper-like writing experience."
+}, When I use my reMarkable in the morning, I'm way more productive. That's why I love reMarkable.

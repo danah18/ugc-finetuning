@@ -1,0 +1,4 @@
+{
+  "brand_name": "TLDR",
+  "product_description": "A free email newsletter that delivers a daily briefing of important tech industry news to your inbox, targeted at software engineers and tech professionals."
+}, Okay, here's exactly how over 300,000 software engineers start their day. TLDR is a free email newsletter that's read by engineers at SpaceX and Stripe and founders of Y Combinator. It's a briefing of everything important happening in the tech industry sent straight to your inbox every weekday, and it takes 5 minutes to read. And the best part, you can click below now to subscribe for free.

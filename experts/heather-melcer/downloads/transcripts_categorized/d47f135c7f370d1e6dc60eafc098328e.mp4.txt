@@ -1,0 +1,7 @@
+{
+  "brand_name": "Aesop Face Cream",
+  "product_description": "A high-quality facial moisturizer known for its smooth texture and premium ingredients, designed to leave skin feeling exceptionally soft."
+}, 3 reasons why I regret buying this Aesop face cream:
+1. The texture is too smooth.
+2. My skin feels too soft after using it.
+3. They use too many high-quality ingredients.

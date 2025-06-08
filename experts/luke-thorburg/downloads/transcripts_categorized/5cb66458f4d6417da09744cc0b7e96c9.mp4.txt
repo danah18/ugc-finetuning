@@ -1,0 +1,4 @@
+{
+  "brand_name": "Unknown (Shirt brand not specified in the transcript)",
+  "product_description": "A shirt commonly worn at the gym, presumably known for comfort or performance, but further details are not provided in the transcript."
+}, Hey man, what kind of shirt is that? I see you rocking it at the gym all the time.

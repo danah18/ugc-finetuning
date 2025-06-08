@@ -1,0 +1,12 @@
+[
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Etsy\". Product description: \n  \"product_description\": \"An online marketplace where you can purchase personalized gifts",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Ready\". Product description: \n  \"product_description\": \"Ready is a digital menu and ordering software for restaurants. Customers can scan a QR code to view the menu and place orders",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Rocket Money\". Product description: \n  \"product_description\": \"Rocket Money is a personal finance app that helps users track their spending",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Unknown/Generic (no brand explicitly stated in transcript)\". Product description: \n  \"product_description\": \"A course",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Mobot\". Product description: \n  \"product_description\": \"A reusable water bottle with a foam roller exterior",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": null. Product description: \n  \"product_description\": \"A selection of customizable and handmade gift items",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": null. Product description: \n  \"product_description\": \"The ad transcript suggests an alternative to food delivery for earning extra cash",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Le Creuset\". Product description: \n  \"product_description\": \"Premium",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Lucky Land Slots\". Product description: \n  \"product_description\": \"An online gaming platform offering over 100 slot games that can be played on computer or phone",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Posture Corrector\". Product description: \n  \"product_description\": \"A wearable device or brace that pulls your shoulders back and locks them in place"
+]

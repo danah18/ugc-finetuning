@@ -1,0 +1,4 @@
+{
+  "brand_name": "Morning Brew",
+  "product_description": "A free daily email newsletter that summarizes important news in business, technology, and finance in an engaging and easy-to-read way, designed to keep readers informed in just five minutes a day."
+}, Stop scrolling if you want to get smarter in just five minutes a day. The trick is to start reading Morning Brew, the daily newsletter that covers everything you need to know about business, tech, and finance in a way that you actually want to read. Unlike other news, Morning Brew only takes five minutes to read every single time, and it's actually fun to stay on top of it. If you're not convinced yet, it is 100% free, so you could just check it out. All you gotta do is click here and enter your email, and you're all set.

@@ -1,0 +1,4 @@
+{
+  "brand_name": "Aloha Bar",
+  "product_description": "An organic, protein-packed snack bar."
+}, Some things are deliciously satisfying, like the organic, protein-packed Aloha Bar.

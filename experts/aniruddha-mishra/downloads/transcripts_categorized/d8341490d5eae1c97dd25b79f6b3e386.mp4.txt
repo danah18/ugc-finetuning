@@ -1,0 +1,4 @@
+{
+  "brand_name": "Unknown (App not named in transcript)",
+  "product_description": "A fitness app that provides step-by-step workout instructions for all levels, including set and rep ranges, and offers feedback to help users achieve measurable results."
+}, If you're going to the gym without a plan, you need to watch this video right now. This app has step-by-step instructions that range from beginners to advanced lifters that help you progress. It tells you how many sets, rep range, and even forward critique. Stop guessing your workouts and go download this app right now for real, measurable results.

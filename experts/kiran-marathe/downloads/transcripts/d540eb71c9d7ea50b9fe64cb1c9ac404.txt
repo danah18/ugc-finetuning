@@ -1,0 +1,12 @@
+Do you use Google Sheets for your marketing reports, by the way?
+Yeah.
+Oh, and so your reports always break because that's not actually what Google Sheets was built for.
+Well, yeah, they do sometimes break and it does take me ages to figure out like which formula it is breaking.
+Right. That's because Google Sheets is great for ad hoc analysis, but it's not really built for marketing reporting or storing your most valuable marketing data.
+Wait, so what do you use then?
+I'm glad you asked. I use a marketing data hub.
+So it connects all my data, it stores it all, and then it has all the transformation capabilities and formula functionality of Google Sheets, but much easier.
+No need to code or anything like that.
+And it basically automates all of my marketing reports in just a couple of minutes.
+You should give it a whirl.
+Yeah.

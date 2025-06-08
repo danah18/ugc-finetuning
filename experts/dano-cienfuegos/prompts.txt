@@ -1,0 +1,8 @@
+[
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Dr. Squatch\". Product description: \n  \"product_description\": \"A men's personal care brand offering natural bar soaps in a variety of summer-inspired scents (e.g.",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"PrettyLitter\". Product description: \n  \"product_description\": \"PrettyLitter is a silica gel-based cat litter that absorbs urine and its odor",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Luminous\". Product description: \n  \"product_description\": \"An airbrush foundation system that includes hydrating primer",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Pretty Litter\". Product description: \n  \"product_description\": \"A cat litter that absorbs odors",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"True Classic\". Product description: \n  \"product_description\": \"True Classic offers affordable men's clothing designed to enhance the male physique",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Boom by Cindy Joseph\". Product description: \n  \"product_description\": \"Boom is a pro-age makeup line designed for older women"
+]

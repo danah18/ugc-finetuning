@@ -1,0 +1,4 @@
+{
+  "brand_name": "Card Trader",
+  "product_description": "A platform or service that allows users to buy and sell trading cards."
+}, There are a ridiculous amount of ways to buy and sell trading cards these days. I use Card Trader.

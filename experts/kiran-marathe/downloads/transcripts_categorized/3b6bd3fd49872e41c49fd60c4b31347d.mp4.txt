@@ -1,0 +1,4 @@
+{
+  "brand_name": "Charter",
+  "product_description": "A free newsletter that delivers data-driven insights into business, tech, and culture using engaging visuals, designed to help readers quickly and deeply understand current headlines."
+}, This is for anyone who wants to get smarter on business but can't stand reading long, boring articles or text heavy newsletters. If that's you, then hear me out. There's this newsletter that over 300,000 people read and it's called Charter. It delivers data-driven insights into business, tech, and culture using these awesome visuals. In a five-minute visual read, you'll understand the data behind these headlines in a deeper context you can't get from just reading the news. Plus, it's completely free. Click the link to check it out.

@@ -1,0 +1,4 @@
+{
+  "brand_name": "Cadillac",
+  "product_description": "Cadillac is an automotive brand that manufactures luxury vehicles. The ad draws a humorous comparison between the comfort and luxury of manatees and Cadillac cars."
+}, It's been said that manatees are the Cadillac of marine mammals.

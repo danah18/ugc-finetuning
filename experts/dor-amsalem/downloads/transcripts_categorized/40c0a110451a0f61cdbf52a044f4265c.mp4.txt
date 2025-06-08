@@ -1,0 +1,4 @@
+{
+  "brand_name": "ThreadBeast",
+  "product_description": "A monthly clothing subscription box that delivers clothes tailored to your personal style profile."
+}, ThreadBeast is a monthly clothing subscription box that sends you clothes every single month based off a style profile you created.

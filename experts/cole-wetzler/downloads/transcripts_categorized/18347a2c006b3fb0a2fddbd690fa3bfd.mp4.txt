@@ -1,0 +1,4 @@
+{
+  "brand_name": "Unknown (Not mentioned in the ad transcript)",
+  "product_description": "An app that hosts an exclusive annual Black Friday sale, offering special discounts and priority access for users who download the app and enable notifications."
+}, Yes, we will be having a Black Friday sale. It's the only official sale that we do throughout the whole year and if you download our app and turn on notifications you'll get priority access. I can't confirm what the discount will be just yet but make sure you don't miss out!

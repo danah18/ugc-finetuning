@@ -1,0 +1,4 @@
+{
+  "brand_name": "Vibe board",
+  "product_description": "A digital collaboration board connected to Chrome that allows users to quickly access files and drives, share them via email or link, and collaborate with teams in real time."
+}, Can't find the right file? The Vibe board can do that for you. Vibe is connected to Chrome. Access all your files and drives in a second. Share via email or link. Collaborate with your team in real time. Vibe helps me stand out from my competitors. Order yours from vibe.us.

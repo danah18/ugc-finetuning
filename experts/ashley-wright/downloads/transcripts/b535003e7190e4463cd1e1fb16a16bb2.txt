@@ -1,0 +1,1 @@
+Controlling parent this is for you! This sensor sends a notification each time a door opens or closes. Place it on any door to monitor your children.

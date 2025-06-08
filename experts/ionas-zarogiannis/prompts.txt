@@ -1,0 +1,3 @@
+[
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Pedialyte Powder Stick (Adult version)\". Product description: \n  \"product_description\": \"A portable electrolyte powder aimed at adults"
+]

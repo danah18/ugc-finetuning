@@ -1,0 +1,4 @@
+{
+  "brand_name": "Ad World",
+  "product_description": "A conference or event about advertising where attendees can learn strategies, including how to create effective 'ugly ads.' The event provides educational talks, presumably from industry experts, aimed at marketers and advertisers."
+}, This is an ugly ad. I'm recording it by a construction site. Who cares? Just make ads. That's the point of my talk for Ad World, about making ugly ads. If you're interested in learning more about how to make real ugly ads and why they're so valuable, click the link, get 20% off your Ad World ticket right now. Seriously, what are you waiting for? Get the ticket. Let's go. Make ugly ads. Or don't make any money. Up to you.

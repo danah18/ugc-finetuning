@@ -1,0 +1,4 @@
+{
+  "brand_name": "Efficom Business",
+  "product_description": "Une école de commerce spécialisée qui intègre la RSE (Responsabilité Sociétale des Entreprises) et le développement durable dans ses formations en management, marketing, communication et supply chain, avec des intervenants professionnels partageant leur expérience en matière de développement durable."
+}, Une école de commerce de plus ? Efficom Business, c'est pas juste une école de commerce. La RSE et le développement durable sont au cœur de nos formations. Que ce soit pour le management, le marketing, la communication ou la supply chain, nos intervenants professionnels te partagent leur expérience en matière de développement durable et de RSE. Donc si t'as envie d'allier ton métier avec ton engagement pour la planète, ça se passe chez Efficom Business.

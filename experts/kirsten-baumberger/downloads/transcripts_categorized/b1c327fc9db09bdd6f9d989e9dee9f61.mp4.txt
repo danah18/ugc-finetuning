@@ -1,0 +1,4 @@
+{
+  "brand_name": "Magic Spoon",
+  "product_description": "Magic Spoon is a high-protein, zero sugar cereal with only 4g net carbs per serving, designed for those following low carb or sugar-free diets."
+}, Looking for a zero sugar snack? Meet Magic Spoon, a high-protein cereal that has no added sugars. It's also perfect for a low carb diet with 4g net carbs per serving. Give it a try at magicspoon.com.

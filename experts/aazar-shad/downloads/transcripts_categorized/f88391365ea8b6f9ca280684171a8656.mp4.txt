@@ -1,0 +1,4 @@
+{
+  "brand_name": "Matter",
+  "product_description": "Matter is a free app that allows employees to recognize and reward each other by sending kudos within Slack, helping boost engagement and improve company culture, especially in hybrid workplaces."
+}, My number one secret to keeping my employees happy. It's called Matter and it's a free app that lets my employees recognize and reward each other by sending kudos right within Slack. This has helped them feel so much more connected in a hybrid workplace and become recognized for their achievements and hard work. It only takes a minute to set up and the best part, my employees love it. Since adding it to Slack, the engagement has been through the roof and they can't get enough. If you want to improve your company culture, give Matter a try for free today.

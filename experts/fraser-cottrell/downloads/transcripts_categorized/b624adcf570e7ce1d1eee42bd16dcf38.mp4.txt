@@ -1,0 +1,4 @@
+{
+  "brand_name": "Vibe Board",
+  "product_description": "Vibe Board is a collaborative digital whiteboard platform or device designed to help teams work together more effectively, enabling interactive brainstorming, presentations, and digital collaboration."
+}, The Vibe Board lets me and my team do so much more than we could before.

@@ -1,0 +1,4 @@
+{
+  "brand_name": "Bonjour",
+  "product_description": "Bonjour is a coffee alternative beverage containing lion's mane and cordyceps mushrooms, designed to enhance focus and concentration throughout the day."
+}, Arrêter le café m'a changé la vie. Après avoir déjeuné, j'arrive plus du tout à rester concentré. Pourtant, j'ai tout essayé. Boire beaucoup trop de café et même prendre une douche froide. Mais rien ne fonctionne. Et j'ai découvert l'alternative au café bonjour. Elle contient du lion's mane qui est le champignon du cerveau et du cordyceps, le champignon des athlètes. Grâce à ça, je reste concentré toute la journée. Alors si toi aussi tu veux travailler, bois bonjour. Pas besoin de traverser la rue.

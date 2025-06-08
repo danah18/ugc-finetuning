@@ -68,7 +68,7 @@ def get_paths(author):
     return paths
 
 if __name__ == "__main__":
-    expert_list = read_txt_to_list("experts/experts.txt")
+    expert_list = read_txt_to_list("experts/experts-done.txt")
 
     for expert in expert_list:
         paths = get_paths(expert)
@@ -92,5 +92,5 @@ if __name__ == "__main__":
         output_jsonl_file = paths["output_jsonl_file"]
         generate_jsonl(preferred_output_file, non_preferred_output_file, prompts_file, output_jsonl_file)
 
-        # TODO: concanetate jsonfile 
-        # Add creative milkshake files
+        # TODO: concanetate existing combined_output jsonfile 
+        # TODO: add creative milkshake files

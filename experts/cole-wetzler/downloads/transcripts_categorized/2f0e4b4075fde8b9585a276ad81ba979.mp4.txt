@@ -1,0 +1,22 @@
+[
+  {
+    "brand_name": "Kohl's Black Friday Early Access Sale",
+    "product_description": "A sale event featuring discounts on a variety of popular gift-worthy products for the holiday season."
+  },
+  {
+    "brand_name": "Smokeless Indoor Grill",
+    "product_description": "An indoor kitchen appliance that allows you to grill your favorite foods indoors without producing smoke."
+  },
+  {
+    "brand_name": "Ninja Possible Pan",
+    "product_description": "A versatile cookware pan that can be used as a sauté pan, saucepan, skillet, strainer, and is oven-safe for baking."
+  },
+  {
+    "brand_name": "Blender",
+    "product_description": "A high-performance kitchen appliance used for making smoothies, frozen drinks, ice cream, soups, and salsa."
+  },
+  {
+    "brand_name": "Air Fryer, Toaster, and Oven Combo",
+    "product_description": "A multifunctional kitchen appliance that functions as an air fryer, toaster, and oven, suitable for preparing a variety of meals throughout the day."
+  }
+], Four things worth buying from the Kohl's Black Friday Early Access Sale that will make the perfect gifts this holiday season. Just because it's cold outside doesn't mean you should miss out on your favorite grilled foods. This smokeless indoor grill is the perfect appliance to have on hand for all of your grilled favorites. The Ninja Possible Pan just might be the best pan of the year. You can use it as a sauté pan, a saucepan, a skillet, a strainer, and you can even bake with it in the oven. In my opinion, this is the best blender on the market right now at a really good price point. You can make smooth and creamy smoothies, frozen drinks, ice cream, soups, and salsa with it. This is an air fryer, toaster, and oven all in one. It's perfect for toasting toast in the mornings, frying fries for lunch, or baking a pizza for dinner.

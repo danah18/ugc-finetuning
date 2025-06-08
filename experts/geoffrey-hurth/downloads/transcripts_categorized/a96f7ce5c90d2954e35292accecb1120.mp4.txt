@@ -1,0 +1,4 @@
+{
+  "brand_name": "Skincare Routine (generic)",
+  "product_description": "A multi-step skincare regimen involving double cleansing, exfoliating with a liquid exfoliator, applying vitamin C and hyaluronic acid serums, moisturizing with a ceramide-containing moisturizer, and protecting the skin with SPF. The routine is designed to promote healthier, clearer, and more radiant skin."
+}, How I went from this to this? Double cleanse. Liquid exfoliator. Vitamin C serum. Hyaluronic acid serum. Moisturizer with ceramides. SPF. Follow for more skincare.

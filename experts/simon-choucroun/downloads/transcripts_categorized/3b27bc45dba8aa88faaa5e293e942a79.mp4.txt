@@ -1,0 +1,4 @@
+{
+  "brand_name": "Zillow",
+  "product_description": "An online real estate platform that allows users to search for homes, connect with local real estate agents, and request tours of properties directly through the website or app."
+}, I don't know about you, but we've always used Zillow when it comes to searching for home. Did you know you can request a tour right on Zillow? When you find the home that you want to see, just click the request a tour button on the website or on the app. And you can actually request a tour from a local agent. This house is amazing and all thanks to Zillow for making it easy for us to connect with a buyer's agent. Go check out Zillow today and request a tour of your next dream home.

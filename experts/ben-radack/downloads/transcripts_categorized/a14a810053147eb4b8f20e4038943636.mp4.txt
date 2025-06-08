@@ -1,0 +1,4 @@
+{
+  "brand_name": "Artistic Calendar Pad",
+  "product_description": "A calendar pad where each torn-off page contributes to creating a beautiful castle-shaped structure."
+}, What's this? That's artistic calendar pad. After ripping them you'll get a beautiful castle.

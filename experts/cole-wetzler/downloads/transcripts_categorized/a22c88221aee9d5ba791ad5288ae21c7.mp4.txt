@@ -1,0 +1,4 @@
+{
+  "brand_name": "Unknown (not mentioned in transcript)",
+  "product_description": "Shirts that are in high demand and have sold out multiple times."
+}, These shirts sold out three times already. Hurry before they sell out again!

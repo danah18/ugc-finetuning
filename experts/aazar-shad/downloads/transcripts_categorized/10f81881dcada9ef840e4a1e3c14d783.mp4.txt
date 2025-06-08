@@ -1,0 +1,4 @@
+{
+  "brand_name": "Stacked Marketer",
+  "product_description": "A service that provides information, news, and tips related to TikTok, social media, and Google ads, helping users stay updated and improve their marketing knowledge."
+}, If you're trying to learn more about TikTok, social media, maybe even Google ads, you need to head over to Stacked Marketer.

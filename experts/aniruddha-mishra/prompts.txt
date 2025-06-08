@@ -1,0 +1,21 @@
+[
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Gumdrop\". Product description: \n  \"product_description\": \"An influencer platform app that connects influencers with pre-approved",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Workout app\". Product description: \n  \"product_description\": \"A fitness application that creates personalized workout plans based on your goals and fitness level. It provides guidance on sets",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Grace and Stella\". Product description: \n  \"product_description\": \"Grace and Stella Energy Drink Eye Mask and If Eyes Could Smile Eye Cream are skincare products designed to reduce dark circles and puffiness around the eyes. The eye mask is used in the morning to decrease puffiness",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Uri Gummies\". Product description: \n  \"product_description\": \"Uri Gummies are raspberry-flavored supplements containing Reishi mushroom",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Unknown (App not named in transcript)\". Product description: \n  \"product_description\": \"A fitness app that provides step-by-step workout instructions for all levels",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Fresh Clean Threads\". Product description: \n  \"product_description\": \"Affordable",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Focus Blend\". Product description: \n  \"product_description\": \"A blend of functional mushrooms and adaptogens designed to support focus and productivity",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Focus Blend\". Product description: \n  \"product_description\": \"A powdered supplement blend containing lion's mane",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Happy Mammoth\". Product description: \n  \"product_description\": \"A natural supplement or solution designed to alleviate hormonal symptoms in women",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Clutch\". Product description: \n  \"product_description\": \"A portable phone and tablet charger designed to be ultra-compact and slim",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Dr. Squatch\". Product description: \n  \"product_description\": \"A natural soap and personal care product brand offering bar soaps made with natural ingredients and unique scents",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Blissey\". Product description: \n  \"product_description\": \"A luxury pillowcase made from 100% pure mulberry silk",
+  "Write me the ad copy for a social media ad for {'brand_name': 'Oodie'. Product description:  'product_description': 'A cozy",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Wink\". Product description: \n  \"product_description\": \"A wine company offering a large selection of naturally low-sugar wines",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Ridge\". Product description: \n  \"product_description\": \"A slim",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Sunday Citizen\". Product description: \n  \"product_description\": \"Soft",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Always Pan\". Product description: \n  \"product_description\": \"A multifunctional non-stick cookware pan designed to replace up to eight pieces of traditional cookware. It allows for boiling",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Daily Harvest\". Product description: \n  \"product_description\": \"A meal delivery service that offers a wide selection of nutritious meals",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Supply\". Product description: \n  \"product_description\": \"A single edge razor designed to reduce razor bumps"
+]

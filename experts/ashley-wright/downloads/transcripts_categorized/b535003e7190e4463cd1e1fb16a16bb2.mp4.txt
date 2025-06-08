@@ -1,0 +1,4 @@
+{
+  "brand_name": "Controlling Parent Sensor",
+  "product_description": "A sensor device that sends notifications whenever a door opens or closes, allowing parents to monitor their children's whereabouts by placing it on any door."
+}, Controlling parent this is for you! This sensor sends a notification each time a door opens or closes. Place it on any door to monitor your children.

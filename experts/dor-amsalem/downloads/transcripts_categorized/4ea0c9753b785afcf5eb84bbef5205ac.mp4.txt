@@ -1,0 +1,4 @@
+{
+  "brand_name": "The Constellation Necklace",
+  "product_description": "A necklace featuring zodiac constellations such as Aquarius, Capricorn, and Sagittarius, designed as a fashionable accessory."
+}, Aquarius, Capricorn, Sagittarius. The constellation necklace. Everyone's wearing it.

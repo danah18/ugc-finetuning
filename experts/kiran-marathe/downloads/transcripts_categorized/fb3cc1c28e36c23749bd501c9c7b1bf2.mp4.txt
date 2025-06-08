@@ -1,0 +1,4 @@
+{
+  "brand_name": "Transacted newsletter",
+  "product_description": "A free email newsletter that provides the latest trends and insights in M&A, investment banking, private equity, and venture capital."
+}, How to get sharp on everything happening in M&A. Step one, sign up for the Transacted newsletter. It's free. Step two, read the newsletter. It takes five minutes and gets you the latest trends and insights on what matters most across investment banking, private equity, and venture capital.

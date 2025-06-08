@@ -1,0 +1,4 @@
+{
+  "brand_name": "Sand & Sky",
+  "product_description": "An online skin quiz that provides personalized skincare product recommendations based on your individual needs."
+}, Not sure what product is best for you? Try the new Sand & Sky Skin quiz and get personalized recommendations within 90 seconds. Unveil your best skin ever. Take your skin quiz now.

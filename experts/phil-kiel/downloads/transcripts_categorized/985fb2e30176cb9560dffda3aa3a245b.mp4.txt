@@ -1,0 +1,4 @@
+{
+  "brand_name": null,
+  "product_description": "An online shopping platform or service that allows users to browse, add items to cart, and make purchases online, often used as a form of retail therapy."
+}, And what do we do when we're feeling sad? Add to cart. Wait, what? Initiate checkout. Oh my god, no, don't do this. Click here to purchase. No, why are you doing this? I'm just so sad.

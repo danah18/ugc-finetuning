@@ -1,0 +1,4 @@
+{
+  "brand_name": "Vibe",
+  "product_description": "A collaborative tool or device integrated with Chrome, enabling quick access to files and drives, and allowing real-time team collaboration and sharing via email or link."
+}, Vibe helps me stand out from my competitors. Vibe is connected to Chrome, which lets you access all your files and drives in a second. You can share via email or link, collaborating with your team in real-time. Order your own at vibe.us.

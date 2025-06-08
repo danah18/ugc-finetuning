@@ -1,0 +1,4 @@
+{
+  "brand_name": "TLDR newsletter",
+  "product_description": "A free email newsletter delivered every weekday that provides brief summaries of the latest tech news, startups, programming, and events in the tech economy."
+}, Do you ever feel stupid? Sometimes, but nobody knows because I read the TLDR newsletter. It's an email newsletter sent to you every weekday that briefs you on everything you have to know about the latest tech news and events, including stories about startups, programming, and all the other exciting things happening in the tech economy. Okay, that actually sounds really useful, but I don't want to spend any money right now. Good, because TLDR is 100% free and it takes 15 seconds to sign up. You can swipe up right now to try it out.

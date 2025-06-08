@@ -1,0 +1,4 @@
+{
+  "brand_name": "Maputapo",
+  "product_description": "A platform that helps users organize and join outdoor sports trips, connect with other travelers from around the world, and share travel costs."
+}, Practice your favorite outdoor sport, travel solo, meet new people from all over the world and share the cost of your trip. Can you actually add all of these with just one click? Absolutely yes. That's what Maputapo is here for. Click the link below and pre-register for your next outdoor adventure.

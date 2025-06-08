@@ -1,0 +1,4 @@
+{
+  "brand_name": "Betom",
+  "product_description": "Une application mobile proposant un défi de 28 jours de yoga chaise, permettant de s'entraîner à tout moment et n'importe où, en utilisant simplement une chaise pour retrouver la forme."
+}, C'est moi au 28e jour, le dernier jour du défi 28 jours de yoga chaise sur l'appli Betom. J'ai commencé ce défi pour retrouver la forme. Vous n'en reviendrez pas des résultats obtenus en moins d'un mois. Si vous n'avez pas de temps dans votre emploi du temps, vous pouvez vous entraîner n'importe où et n'importe quand. Vous n'avez besoin littéralement que d'une chaise. Alors commencez le défi aujourd'hui.

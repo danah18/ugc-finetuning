@@ -1,0 +1,4 @@
+{
+  "brand_name": "Magic Spoon",
+  "product_description": "Cereal bars made from Magic Spoon's popular high-protein, low-carb, grain-free, gluten-free cereal, available in dessert flavors such as cookies and cream and cocoa peanut butter. Marketed as a guilt-free, delicious snack."
+}, My friend told me about Magic Spoon cereal bars made from that viral cereal on TikTok. It tastes like sweets without the carbs, grain, gluten, you know, guilt. Just high protein, actually delicious, 100% happiness guaranteed. Try the dessert flavors from cookies and cream to cocoa peanut butter.

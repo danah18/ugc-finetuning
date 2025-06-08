@@ -1,0 +1,15 @@
+[
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Bravo Sierra\". Product description: \n  \"product_description\": \"Bravo Sierra is a brand that offers aluminum-free deodorant and soap",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Unknown (not specified in transcript)\". Product description:  \n  \"product_description\": \"A dietary supplement made from organ meats",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Paint Your Life\". Product description: \n  \"product_description\": \"An online platform that allows users to create custom paintings from their photos",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Midday Squares\". Product description: \n  \"product_description\": \"A functional chocolate company that produces chocolate products aimed at disrupting traditional chocolate brands like Hershey's and Mondelez. The company emphasizes storytelling and reality TV-style content in their marketing",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Swiss Click Plaque Blaster\". Product description: \n  \"product_description\": \"A handheld",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Javi\". Product description: \n  \"product_description\": \"Javi is an eco-conscious coffee concentrate that comes in a glass bottle",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"HiSmile\". Product description: \n  \"product_description\": \"A whitening pen that quickly whitens teeth in just two minutes.\"\n}",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Alpha Lion Superhuman Pre-Workout\". Product description: \n  \"product_description\": \"A collection of fully transparent pre-workout supplements designed to provide long-lasting energy",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Blissey\". Product description: \n  \"product_description\": \"A pillowcase",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Flo\". Product description: \n  \"product_description\": \"A supplement designed to address hormonal acne",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Cereal\". Product description: \n  \"product_description\": \"A brand of healthy cereal that is high in protein",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Filter Baby\". Product description: \n  \"product_description\": \"A water filter designed to remove contaminants like heavy metals and chlorine from tap water",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Sneak\". Product description: \n  \"product_description\": \"A zero-sugar powdered energy drink with natural colors and flavors"
+]

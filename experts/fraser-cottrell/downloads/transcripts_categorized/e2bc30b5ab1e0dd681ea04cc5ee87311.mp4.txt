@@ -1,0 +1,4 @@
+{
+  "brand_name": "Sofatutor",
+  "product_description": "An online, gamified learning platform for students that supports subjects like math and English. It offers interactive learning experiences, printable worksheets, and a 30-day free trial, designed to help children improve and catch up in their studies."
+}, I encourage all my young students' parents to get them onto Sofatutor. Here's why. Sofatutor isn't just some boring workbook. It's a gamified learning experience that helps them along in certain subjects like math or English. And it's even got printable worksheets that you can use if you feel like your child needs this. It's got a 30-day free trial, so even if you're not fully convinced, at least give it a try. It will help your kids catch up.

@@ -1,0 +1,4 @@
+{
+  "brand_name": "Cereal/Snack Brand (likely something nostalgic like Froot Loops, Lucky Charms, or Dunkaroos)",
+  "product_description": "A brand offering cereals and snacks that appeal both to children and adults who want to enjoy their favorite childhood treats."
+}, Just because I grew up doesn't mean my choice in cereal and snacks had to.

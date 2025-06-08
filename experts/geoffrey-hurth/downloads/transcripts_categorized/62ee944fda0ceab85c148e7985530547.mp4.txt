@@ -1,0 +1,4 @@
+{
+  "brand_name": "Non spécifié (probablement une entreprise de dégustation de vin en flacons)",
+  "product_description": "Service de dégustation de grands crus rares et exclusifs, proposés en petits flacons adaptés pour deux personnes, permettant de découvrir divers vins sans ouvrir de grandes bouteilles, directement depuis chez soi."
+}, Un flacon, c'est la quantité idéale pour une dégustation à deux personnes. Le concept est super cool et en plus c'est très très joli. Vous puissiez depuis chez vous découvrir des grands crus qui sont rares, exclusifs, que vous ne pouvez pas trouver dans votre supermarché habituel et vous n'avez pas besoin d'ouvrir une quinzaine de bouteilles pour faire une dégustation de ces vins-là.

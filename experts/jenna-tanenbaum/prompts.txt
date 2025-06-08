@@ -1,0 +1,8 @@
+[
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Beets Plus\". Product description: \n  \"product_description\": \"A powdered drink mix containing beets",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Nutribullet Pro\". Product description: \n  \"product_description\": \"A powerful",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Time for Learning\". Product description: \n  \"product_description\": \"An online homeschooling platform that allows parents to create and manage personalized education plans for their children",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Time for Learning\". Product description: \n  \"product_description\": \"An online homeschooling curriculum that provides flexible",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Time4Learning\". Product description: \n  \"product_description\": \"An online homeschooling platform that provides adaptable",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Hello Bello\". Product description: \n  \"product_description\": \"A diaper subscription service that delivers super absorbent"
+]

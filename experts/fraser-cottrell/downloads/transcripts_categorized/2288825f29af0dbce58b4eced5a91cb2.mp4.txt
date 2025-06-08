@@ -1,0 +1,4 @@
+{
+  "brand_name": "Kaffee (likely a strong or premium coffee brand; not explicitly named in the transcript)",
+  "product_description": "A coffee that is so strong or effective that after only one cup, the drinker feels much stronger and more energetic. The drawback is that all other coffees taste terrible in comparison."
+}, Nach nur einer Tasse hätte ich mir ihn jetzt eigenhändig heben können. Der einzige Haken: Alle anderen Kaffees schmecken danach erbärmlich.

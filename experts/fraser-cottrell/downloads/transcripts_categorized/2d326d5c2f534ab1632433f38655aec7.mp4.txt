@@ -1,0 +1,4 @@
+{
+  "brand_name": "Canvas app",
+  "product_description": "A collaborative digital workspace platform that allows users to create mood boards, sketch designs, share and annotate work, collaborate with a team, and integrate with popular workflow apps like Figma, Canva, and Vimeo."
+}, I'm a graphic designer, and here's how I use my vibe board to bring ideas to life. Step one, mood board, all in the Canvas app. Look at all the space I have to work with. Step two, initial sketches, and all this can be shared with my team for easy collaboration. Step three, incorporate feedback. I can quickly annotate and leave comments while taking my call. I can get two times as much stuff done because of this. Step four, final draft time. I can send it over to my client via link or email. It's as simple as that. My favorite part, I can use all my favorite workflow apps. Figma, Canva, Vimeo, you name it.

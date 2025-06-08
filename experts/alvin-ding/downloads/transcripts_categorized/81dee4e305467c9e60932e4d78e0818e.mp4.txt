@@ -1,0 +1,4 @@
+{
+  "brand_name": "reMarkable",
+  "product_description": "A digital paper tablet that allows users to write, sketch, and organize notes with features like cut, paste, move, and scale—combining the feel of paper with the capabilities of digital technology."
+}, You can do things on the reMarkable that you simply can't do with paper. You can even cut and paste, move, or scale your writing or sketches. I mean, that's amazing. It's essentially paper with digital power.

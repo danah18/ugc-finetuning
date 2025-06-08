@@ -1,0 +1,4 @@
+{
+  "brand_name": "Sand&Sky",
+  "product_description": "An online skin quiz that provides personalized skincare product recommendations within 90 seconds."
+}, Not sure what product is best for you? Try the new Sand&Sky Skin Quiz and get personalized recommendations within 90 seconds!

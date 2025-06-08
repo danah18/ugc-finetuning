@@ -1,0 +1,4 @@
+{
+  "brand_name": "ClickUp",
+  "product_description": "A productivity and project management platform that helps teams organize, track, and collaborate on documents and tasks, with features like Docs 3.0 for version control and team coordination."
+}, Before ClickUp, we were so disorganized we almost lost the final version of the Declaration of Independence. Literally. Thanks to Docs 3.0, we're tracking all our authors and versions in one place. ClickUp, now it's history.

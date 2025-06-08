@@ -1,0 +1,4 @@
+{
+  "brand_name": "Unknown (Newsletter)",
+  "product_description": "A newsletter that provides insightful information or tips, making readers appear more knowledgeable and competent at work."
+}, I started reading this newsletter and now my boss thinks I'm a genius.

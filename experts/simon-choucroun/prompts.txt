@@ -1,0 +1,12 @@
+[
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Lemonade\". Product description: \n  \"product_description\": \"Lemonade offers renters insurance",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Experian Boost\". Product description: \n  \"product_description\": \"A service that helps users increase their credit score by including payments for rent and streaming services in their credit history. It is part of Experian's suite of free credit tools.\"\n}",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": null. Product description: \n  \"product_description\": null\n}\n\nThere is no mention of a product or service in the provided transcript. The text appears to be a conversational quiz about capital cities",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Zillow\". Product description: \n  \"product_description\": \"An online real estate platform that allows users to search for homes",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": null. Product description: \n  \"product_description\": \"The transcript does not reference or mention a specific product or service by name. It is a conversational exchange about shaving body hair",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Javi\". Product description: \n  \"product_description\": \"Javi coffee concentrate is a microdose coffee concentrate that allows you to quickly make cold brew-style coffee by mixing a teaspoon or two of the concentrate with your preferred liquid",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": null. Product description: \n  \"product_description\": \"This transcript is satirically referencing the credibility associated with being on a podcast",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": null. Product description: \n  \"product_description\": \"This transcript does not reference a specific product or service being advertised. Instead",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Not specified\". Product description: \n  \"product_description\": \"A skincare routine involving double cleansing",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Not specified in transcript\". Product description: \n  \"product_description\": \"A service or tool that helps podcasters create small"
+]

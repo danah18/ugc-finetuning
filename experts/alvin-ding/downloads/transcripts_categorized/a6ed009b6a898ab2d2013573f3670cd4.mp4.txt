@@ -1,0 +1,4 @@
+{
+  "brand_name": "Motion",
+  "product_description": "A smart calendar and task manager app that uses artificial intelligence to optimize your schedule by combining calendars, to-do lists, and meetings into one unified platform, acting as a personal assistant to improve productivity."
+}, Underrated app for productivity you need to try? Motion. Motion is a smart calendar and task manager that literally works as a personal assistant for you. It uses artificial intelligence to optimize your day by combining your calendars, your to-do lists, your meetings all in one place to create a perfect schedule so you don't have to. So if you want to really improve your productivity, you can try out Motion for free.

@@ -1,0 +1,16 @@
+[
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Jolie filtered showerhead\". Product description: \n  \"product_description\": \"A showerhead that filters out impurities such as chlorine",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"FLO\". Product description: \n  \"product_description\": \"FLO is a PMS vitamin supplement designed to help balance hormones and address issues like hormonal acne using natural",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"True Classic\". Product description: \n  \"product_description\": \"A brand of premium men's T-shirts designed to fit 'dad bod' physiques by highlighting the chest and biceps",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Oats Overnight\". Product description: \n  \"product_description\": \"A convenient meal service or product offering pre-made or easy-to-prepare overnight oats in over 30 flavors",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Delune\". Product description: \n  \"product_description\": \"Delune offers relief products and content for people experiencing period symptoms such as cramps and PMS",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"PACT\". Product description: \n  \"product_description\": \"PACT offers comfortable and stylish clothing items such as polo sweaters",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"FLO\". Product description: \n  \"product_description\": \"A PMS vitamin made from natural",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Kosas Airbrow\". Product description: \n  \"product_description\": \"Kosas Airbrow is a clear eyebrow gel and brow product line designed to shape",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Liquid Lash Extensions Mascara\". Product description: \n  \"product_description\": \"A mascara that gives the appearance of eyelash extensions",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Curology\". Product description: \n  \"product_description\": \"Curology provides customized skincare products tailored to individual skin needs. The service involves taking an online quiz and uploading photos",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Kosas Lip Plumping Oil\". Product description: \n  \"product_description\": \"A lightweight",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"The Loon - Cramp Aid\". Product description: \n  \"product_description\": \"Cramp Aid is a natural supplement designed to provide fast relief from menstrual cramps and support overall menstrual health. The Loon is a brand focused on menstrual wellness offering products made with natural anti-inflammatories and antispasmodics to help people have healthier",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"The Perfect Jean\". Product description: \n  \"product_description\": \"A brand that sells stretchy",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Elix\". Product description: \n  \"product_description\": \"A health and wellness product designed to help people manage period symptoms by lowering inflammation"
+]

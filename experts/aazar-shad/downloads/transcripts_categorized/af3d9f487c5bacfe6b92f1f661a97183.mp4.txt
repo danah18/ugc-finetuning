@@ -1,0 +1,4 @@
+{
+  "brand_name": "Sleepiest",
+  "product_description": "A sleep aid app that uses calming voice recordings and meditative audio to help users fall asleep faster by relaxing their minds and reducing anxiety."
+}, Can't sleep? Don't worry, let me talk you to sleep. The sound of my voice will have a hypnotic effect. I'll start out engaging, but as we progress, my words will slow to a gentle meander with growing pauses between words. I'll distract your mind, remove your worries, and allow a sense of calm to wash over you. So join me on Sleepiest and discover why over two million people are already using the sound of my voice to fall asleep each night. Install now to fall asleep fast.

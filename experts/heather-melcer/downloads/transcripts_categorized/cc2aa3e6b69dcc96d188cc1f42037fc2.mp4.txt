@@ -1,0 +1,4 @@
+{
+  "brand_name": "Unknown (GPS tracker for dogs, brand not specified)",
+  "product_description": "A small device that attaches to your dog's collar and uses GPS technology to track your dog's location and activity. It monitors various health indicators such as sleep and exercise, helping owners set goals, identify patterns, spot potential health issues early, and compare their dog's data with other dogs."
+}, I recently made a video on this little device which is a GPS tracker for dogs and I got a few questions on it, so let me tell you more about it while I show you how to use it. This thing tracks so much, including sleep, which can help with things like setting goals, identifying patterns, spotting problems early on, and you can also compare data with other dogs. I'm a health freak and I love to track these things for myself, so it's really nice to be able to do it for my dogs. Are they getting enough rest, exercise, you get it.

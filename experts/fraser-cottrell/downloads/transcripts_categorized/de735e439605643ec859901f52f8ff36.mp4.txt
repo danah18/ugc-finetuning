@@ -1,0 +1,4 @@
+{
+  "brand_name": "Unbekannt (starker Kaffee)", 
+  "product_description": "Sehr starker Kaffee, der sich an Menschen richtet, die ihren Alltag als Herausforderung sehen. Verspricht besonders hohe Stärke und intensiven Geschmack."
+}, Verabschiede dich von bitterer Plörre! Der stärkste Kaffee, den du jemals probieren wirst. Gemacht für die Krieger des Alltags.

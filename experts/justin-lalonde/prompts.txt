@@ -1,0 +1,6 @@
+[
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Avi\". Product description: \n  \"product_description\": \"Avi's Multi Collagen Capsules are dietary supplements designed to promote healthier skin",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Athletic Greens (AG1)\". Product description: \n  \"product_description\": \"AG1 is a nutritional supplement powder designed to replace multiple supplements with a single daily scoop. It provides a blend of 75 vitamins",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Cuts\". Product description: \n  \"product_description\": \"A slim-fitting",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Athletic Greens AG1\". Product description: \n  \"product_description\": \"AG1 is a comprehensive daily health drink that combines multivitamins"
+]

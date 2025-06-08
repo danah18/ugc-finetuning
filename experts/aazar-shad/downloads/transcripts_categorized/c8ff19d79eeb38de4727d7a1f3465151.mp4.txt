@@ -1,0 +1,4 @@
+{
+  "brand_name": "Matter",
+  "product_description": "Matter is a tool that integrates with Slack or Microsoft Teams to allow team members to recognize and reward each other's contributions. It enables users to send kudos and feedback quickly within their messaging platform, helping to boost company culture and employee engagement. Matter includes features like 'Feedback Friday' to encourage regular peer recognition."
+}, My company added Matter to Slack and our company culture immediately became so much better. Matter lets you recognize and reward your teammates for their hard work, and we love using it. In Slack, you can send kudos to deserving coworkers in just a few seconds. It felt so good being recognized for my hard work. So we started using their Feedback Friday feature, and now over 50% of our team sends kudos every week. And the best part? It only took a minute to set up and use. Add Matter to your Slack or Microsoft Teams for free today.

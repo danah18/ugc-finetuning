@@ -1,0 +1,1 @@
+As a software dev, you have to check out this time management hack with ClickUp. I get a lot of emails during my workday. You can use your favorite automation tool, or if you're hardcore, you can roll your own code with ClickUp's API. Every email with that label will now turn into a task with ClickUp. This is another way I stay super organized. So try out ClickUp today.

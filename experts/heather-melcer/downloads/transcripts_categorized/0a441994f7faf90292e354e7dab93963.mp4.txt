@@ -1,0 +1,4 @@
+{
+  "brand_name": "Hopper",
+  "product_description": "A mobile app that helps users book hotels at low prices, offering deals without hidden fees or requirements."
+}, You have to use Hopper. It's the best way to book hotels at super low prices. Pick a location, select the dates, and Hopper will find you tons of hotels. No hidden fees or weird requirements, just incredible deals. Download the Hopper app now and get started.

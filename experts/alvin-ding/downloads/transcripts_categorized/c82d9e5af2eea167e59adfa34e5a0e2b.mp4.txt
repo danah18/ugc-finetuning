@@ -1,0 +1,4 @@
+{
+  "brand_name": "Shopify",
+  "product_description": "A commerce platform that allows entrepreneurs to sell to their customers anywhere."
+}, Sell to your customers anywhere with Shopify, the commerce platform designed for entrepreneurs.

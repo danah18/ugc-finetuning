@@ -1,0 +1,22 @@
+[
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Burger\". Product description: \n  \"product_description\": \"Durable",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Dr. Smile\". Product description: \n  \"product_description\": \"Dr. Smile offers clear aligners that straighten teeth as an alternative to traditional braces. The aligners are transparent",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Hotel Lobby Candle\". Product description: \n  \"product_description\": \"A line of luxury candles inspired by the scents found in hotel lobbies around the world.\"\n}",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Green Dental Powder for Dogs\". Product description: \n  \"product_description\": \"A dental powder additive for dog food that freshens breath",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"PetLabCurve ProBrite Powder\". Product description: \n  \"product_description\": \"A green powder supplement designed to improve dogs' dental health by whitening their teeth and reducing bad breath. The powder is added to a dog's food to help clean teeth and target tartar buildup.\"\n}",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Pet Lab\". Product description: \n  \"product_description\": \"A probiotic chew for dogs designed to improve gut health and help alleviate symptoms of seasonal allergies",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"NKM\". Product description: \n  \"product_description\": \"Eine feuchtigkeitsspendende Creme",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Retro HDMI Stick\". Product description: \n  \"product_description\": \"A plug-and-play HDMI stick that connects to your TV and contains 10",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Kinzeri\". Product description: \n  \"product_description\": \"Shoes designed to discreetly add 2.5 inches to the wearer's height",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Zegna Baruffa Lane Borgosesia\". Product description: \n  \"product_description\": \"A textile manufacturing company specializing in high-quality wool yarns",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Vitalongum\". Product description: \n  \"product_description\": \"Vitalongum is a probiotic supplement designed to support gut health",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Maputapo\". Product description: \n  \"product_description\": \"A platform that helps users organize and join outdoor sports trips",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Everyday Dose\". Product description: \n  \"product_description\": \"A mushroom-based coffee alternative that blends superfood mushrooms",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Everyday Dose\". Product description: \n  \"product_description\": \"A coffee alternative that blends superfood mushrooms (like Lion's Mane and Chaga)",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Card Trader\". Product description: \n  \"product_description\": \"A platform or service that allows users to buy and sell trading cards.\"\n}",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Huel\". Product description: \n  \"product_description\": \"A to Z daily vitamin drink",
+  "Write me the ad copy for a social media ad for {\"brand_name\": \"The Essence Vault\". Product description:  \"product_description\": \"Affordable fragrances inspired by luxury designer perfumes",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": \"Happy Hairless\". Product description: \n  \"product_description\": \"A razor designed to provide a close shave without causing nicks",
+  "Write me the ad copy for a social media ad for {\n  \"brand_name\": null. Product description: \n  \"product_description\": \"A skincare routine including an exfoliator to lighten and buff away dull skin",
+  "Write me the ad copy for a social media ad for {'brand_name': 'MoBot'. Product description:  'product_description': 'A reusable water bottle that doubles as a foam roller for muscle massage"
+]
